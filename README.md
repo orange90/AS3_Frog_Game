@@ -1,7 +1,7 @@
 AS3_Frog_Game
 =============
 
-AS3_Frog_game
+AS3_Frog_game。新手学AS3，代码组织得不太好，望见谅。
 
 #关卡设置
 
