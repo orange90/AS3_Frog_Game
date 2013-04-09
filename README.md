@@ -1,5 +1,7 @@
 AS3_Frog_Game
 =============
+This game is my first game since I learn AS3 a week ago
+--------
 
 AS3_Frog_game。新手学AS3，代码组织得不太好，望见谅。
 
